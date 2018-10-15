@@ -4,7 +4,7 @@ LICENSE
 
 By using the Software, you agree that you have read, understood, and comply with the terms and conditions of this License.
 
-Subject to the terms and conditions set forth in this License, NEC Corporation (ÅgNECÅh) hereby grants to you a non-exclusive, non-transferable license to use, copy and modify nec-mpc/Parallel-SPDZ-2-Extension-Ring and related documents (ÅgSoftwareÅh) solely for non-commercial, internal testing and verification of NECÅfs technologies described in Report number: Cryptology ePrint Archive: Report 2018/762, Title: Generalizing the SPDZ Compiler For Other Protocols published at ACM Conference on Computer and Communications Security in 2018. 
+Subject to the terms and conditions set forth in this License, NEC Corporation ("NEC") hereby grants to you a non-exclusive, non-transferable license to use, copy and modify nec-mpc/Parallel-SPDZ-2-Extension-Ring(URL: https://github.com/nec-mpc/Parallel-SPDZ-2-Extension-Ring) and related documents ("Software") solely for non-commercial, internal testing and verification of NEC's technologies described in Report number: Cryptology ePrint Archive: Report 2018/762, Title: Generalizing the SPDZ Compiler For Other Protocols published at ACM Conference on Computer and Communications Security in 2018. 
 URL: https://eprint.iacr.org/2018/762
 
 Bug reports, test results, usability, modifications and other feedback with respect to the Software is welcome and appreciated. Please contact : t-araki@ek.jp.nec.com                  
@@ -13,7 +13,7 @@ NEC may use such feedback for any purposes and by any means.
 You shall not use or incorporate any part of the Software (including its copies and modifications) or an algorithm included in the Software in a commercial product or service, and shall not use them for any other purpose than granted in this License.
 You shall not transfer, sublicense, rent, lease or mortgage, in whole or in part, the Software (including its copies and modifications) to any other party without the written consent of NEC.
 
-	THE SOFTWARE IS PROVIDED TO YOU ON AN ÅgAS ISÅh BASIS AND NEC MAKES NO REPRESENTATION OR WARRANTY WHATSOEVER WITH RESPECT TO THE SOFTWARE EITHER ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. NEC SHALL HAVE NO RESPONSIBILITY TO MAINTAIN THE SOFTWARE, CORRECT ERRORS OR BUGS FOUND IN THE SOFTWARE. FURTHER, NEC MAKES NO REPRESENTATION OR WARRANTY THAT THE USE OF THE SOFTWARE WILL NOT INFRINGE ANY THIRD PARTY'S RIGHTS, INCLUDING BUT NOT LIMITED TO, ANY INTELLECTUAL PROPERTY RIGHTS. 
+	THE SOFTWARE IS PROVIDED TO YOU ON AN "AS IS" BASIS AND NEC MAKES NO REPRESENTATION OR WARRANTY WHATSOEVER WITH RESPECT TO THE SOFTWARE EITHER ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. NEC SHALL HAVE NO RESPONSIBILITY TO MAINTAIN THE SOFTWARE, CORRECT ERRORS OR BUGS FOUND IN THE SOFTWARE. FURTHER, NEC MAKES NO REPRESENTATION OR WARRANTY THAT THE USE OF THE SOFTWARE WILL NOT INFRINGE ANY THIRD PARTY'S RIGHTS, INCLUDING BUT NOT LIMITED TO, ANY INTELLECTUAL PROPERTY RIGHTS. 
 
 IN NO EVENT SHALL NEC BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF THIS LICENSE OR ANY USE, COPY OR OTHERWISE OF THE SOFTWARE.
 
