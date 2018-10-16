@@ -1,6 +1,6 @@
 # Parallel-SPDZ-2-Extension-Ring
 
-Implementation of SPDZ-2 Extension library , which enables running the MPC for Ring protocol [A+16](https://eprint.iacr.org/2016/768.pdf) under the Parallel-SPDZ-2 With Extensions for Ring framework.
+Implementation of SPDZ-2 Extension library , which enables running the MPC for Ring protocol [A+18](https://eprint.iacr.org/2018/762) under the Parallel-SPDZ-2 With Extensions for Ring framework.
 
 Copyright (c) 2018, Bar Ilan Cryptography Research Group, NEC  Security Research Labs. All rights reserved.
 See License.txt
